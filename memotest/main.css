@@ -1,0 +1,60 @@
+.modo-oscuro{
+    background-color: #65647C;
+}
+.container{
+    margin: 1vh;
+    display: none
+}
+.fin-del-juego
+{
+    display: none;
+}
+.cuadro{
+    background-color: rgb(82, 82, 82);
+    height: 20vh;
+    margin: 2vh;
+    border-radius: 4vh;
+}
+.cubierto{
+    background-color: #CDC2AE !important;
+    transition: all 0.2s
+}
+.deshabilitado{
+    background-color: #65647C !important;
+
+}
+.centrado
+{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+}
+
+
+.rojo
+{
+    background-color: #f98787;
+}
+.verde
+{
+    background-color: #b1ffa2;
+}
+.naranja
+{
+    background-color: #fac88b;
+}
+.amarillo
+{
+    background-color: #f6f989;
+}
+.azul
+{
+    background-color: #85b1f7;
+}
+.violeta
+{
+    background-color: #f09ff0;
+}
